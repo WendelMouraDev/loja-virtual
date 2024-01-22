@@ -129,7 +129,7 @@ footer p{
 
 /*fim do rodapé*/
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 640px){
     html{
         max-width: 767px;
         overflow-x: hidden;
@@ -184,7 +184,7 @@ footer p{
 
 }
 
-@media screen and (min-width:768px) and (max-width: 1023px){
+@media screen and (min-width:641px) and (max-width: 1023px){
     html{
         max-width: 1023px;
         overflow-x: hidden;
